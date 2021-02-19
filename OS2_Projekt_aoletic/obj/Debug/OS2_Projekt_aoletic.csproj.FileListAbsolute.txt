@@ -1,0 +1,12 @@
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\bin\Debug\OS2_Projekt_aoletic.exe.config
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\bin\Debug\OS2_Projekt_aoletic.exe
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\bin\Debug\OS2_Projekt_aoletic.pdb
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\obj\Debug\OS2_Projekt_aoletic.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\obj\Debug\OS2_Projekt_aoletic.GlavnaForma.resources
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\obj\Debug\OS2_Projekt_aoletic.Properties.Resources.resources
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\obj\Debug\OS2_Projekt_aoletic.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\obj\Debug\OS2_Projekt_aoletic.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\obj\Debug\OS2_Projekt_aoletic.exe
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\obj\Debug\OS2_Projekt_aoletic.pdb
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Antonio\source\repos\OS2_Projekt_aoletic\OS2_Projekt_aoletic\obj\Debug\OS2_Projekt_aoletic.csproj.CopyComplete
